@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "guia9",
+    "slug": "guia9",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
